@@ -7,8 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="greenPrimary">#55A630</color>
-    <color name="greenSecondary">#AACC00</color>
+    <color name="greenPrimary">#270270</color>
+    <color name="greenSecondary">#f7b8d2</color>
     <color name="primaryDarkBlack">#000000</color>
     <color name="secondaryDarkBlack">#1a1a1a</color>
+    <color name="darkPurple">#55A630</color>
+    <color name="lightPink">#AACC00</color>
+
+
+
 </resources>
